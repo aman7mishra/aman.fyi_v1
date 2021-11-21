@@ -1,2 +1,2 @@
-# [aman.fyi] (www.aman.fyi)
+# [aman.fyi](www.aman.fyi)
 Code beneath my personal website
