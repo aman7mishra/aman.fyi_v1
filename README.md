@@ -1,2 +1,2 @@
-# [aman.fyi](aman.fyi)
-Code beneath my personal website
+# aman.fyi
+Code beneath my [portfolio](https://www.aman.fyi)
